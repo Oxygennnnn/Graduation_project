@@ -404,8 +404,10 @@ Fix:
 
 ## License
 
-Add your license here.
+https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset (License: CC BY-NC-SA 4.0)
+and
+https://www.kaggle.com/datasets/nizorogbezuode/rice-leaf-images (Data files © Original Authors, the authors will be cited as required)
 
 ## Author
 
-Add author info here.
+Haoyang Li
